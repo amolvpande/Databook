@@ -1,0 +1,64 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.MuiTableRow-root.MuiTableRow-head.css-1q1u3t4-MuiTableRow-root {
+  background-color: lightgray;
+}
+.icon {
+  position: relative;
+  top: 8px;
+  left: 13px;
+  color: red !important;
+}
+
+.Container-top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-left: -75px;
+  margin-top: 50px;
+}
+
+label {
+  position: relative;
+  top: -26px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  left: 70px;
+}
+.for-hw {
+  height: 26px;
+  width: 103px;
+  margin: 13px 0px;
+  border: none;
+  border-bottom: 2px solid black;
+}
+.cal {
+  margin-bottom: 22px;
+  margin-top: -3px;
+}
+
+.left-Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -43px;
+}
+.div-h {
+  height: 73px;
+}
+.input {
+  padding: 8px;
+  width: 108px;
+  font-size: 15px;
+  border-radius: 10px;
+  margin-top: -9px;
+  border-bottom: 2px solid black;
+}
+.MuiTableCell-root.MuiTableCell-body.MuiTableCell-sizeMedium.css-1ex1afd-MuiTableCell-root {
+  line-height: 1;
+  padding: 10px;
+}
+.emp-id {
+  font-weight: bold;
+}
